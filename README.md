@@ -12,7 +12,7 @@ Buktikan kelayakan anda sebagai asisten dengan membuat 10 soal dari materi mata 
 
 ## Hal yang Perlu Diperhatikan
 
-1. Tulislah topik pada setiap soal yang kalian buat (tulis sebelum setiap soal).
+1. Tulislah topik pada setiap soal yang kalian buat (tulis sebelum setiap soal, misalnya (Teori Himpunan), (Relasi dan Fungsi), (Induksi Matematika) -> ikuti saja materi pada web Pak Rinaldi Munir).
 2. 1 Topik hanya boleh digunakan dalam maksimal 2 soal.
 3. Pastikan pembahasan jelas dan dapat diikuti (akan mempengaruhi penilaian).
 4. Soal yang sangat kreatif (Notes: kreatif tidak berarti soalnya didesain sesulit mungkin, tapi bisa dalam aspek lain, misalnya alur penyelesaian soal) memungkinkan adanya Bonus Point.
